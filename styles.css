@@ -45,10 +45,10 @@ body {
 
 .watch span {
     font-weight: bolder;
-    font-size: 130%;
+    font-size: 60px;
 
 }
 
-.watch span.tempo {
+.watch span.time {
     font-size: 10px;
 }
